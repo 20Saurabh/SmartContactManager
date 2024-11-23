@@ -1,4 +1,5 @@
 Smart Contact Manager
+
 A responsive web application designed for efficient contact management, built with modern frameworks and technologies.
 
 Features
